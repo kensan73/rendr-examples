@@ -28,6 +28,9 @@ node_modules
 # Vim
 *.sw?
 
+# Webstorm
+*/.idea/*
+
 # Mac stuff
 .DS_Store
 
